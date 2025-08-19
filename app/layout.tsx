@@ -7,6 +7,10 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Khair Al Anaam Building Contracting Abu Dhabi',
   description: 'General Contracting & Construction | Renovation & Fit-Out Works | Construction Materials & Equipment Supply',
+icons: {
+    icon: "/images/Alfalahvillas.jpg", // make sure this file is inside your public/ folder
+  },
+
 };
 
 export default function RootLayout({
