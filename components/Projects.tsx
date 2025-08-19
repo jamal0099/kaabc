@@ -6,18 +6,18 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Modern Office Complex",
-      category: "Commercial",
-      image: "https://images.pexels.com/photos/3862132/pexels-photo-3862132.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
-      description: "A state-of-the-art 15-story office building with sustainable design features.",
+      title: "Alfalah Villas",
+      category: "Housing and Residence",
+      image: "/images/Alfalahvillas.jpg",
+      description: "Construction, testing, commissioning, and maintenance of 990 villas in Al Falah, Abu Dhabi. The total built-up area for the project is approximately 480,144 sqm.",
       icon: Building
     },
     {
       id: 2,
-      title: "Luxury Residential Estate",
+      title: "Luxury Residential Villas",
       category: "Residential",
-      image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
-      description: "Premium residential development with 50 luxury homes and community amenities.",
+      image: "/images/Alfalahvillas2.jpg",
+      description: "Premium residential development of villas in Abu Dhabi with all modern amenities.",
       icon: Home
     },
     {
@@ -85,7 +85,7 @@ export default function Projects() {
                     {project.description}
                   </p>
                   <button className="text-orange-600 hover:text-orange-700 font-medium flex items-center gap-1 transition-colors">
-                    Learn More
+                    <a href="tel:+971506640388">Learn More</a>
                     <span className="transform group-hover:translate-x-1 transition-transform">→</span>
                   </button>
                 </div>

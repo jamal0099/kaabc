@@ -38,7 +38,7 @@ export default function Hero() {
           
           <button className="border-2 border-white hover:bg-white hover:text-slate-900 text-white px-8 py-4 rounded-lg font-semibold text-lg flex items-center gap-2 transition-all">
             <Play className="h-5 w-5" />
-            Watch Our Work
+            <a href="#projects">Watch Our Work</a>
           </button>
         </div>
         
