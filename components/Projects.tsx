@@ -16,24 +16,24 @@ export default function Projects() {
       id: 2,
       title: "Luxury Residential Villas",
       category: "Residential",
-      image: "/images/Alfalahvillas2.jpg",
-      description: "Premium residential development of villas in Abu Dhabi with all modern amenities.",
+      image: "/images/trojan6.png",
+      description: "2017 Trojan General Contracting is one of the main contractors in the region, successfully completing the construction, testing & commissioning of 489 villas and associated infrastructure works for the Nad Al Sheba project in Dubai.شركة تروجان للمقاولات العامّة، الشركة الرئيسية للمقاولات في المنطقة، أكملت بنجاح أعمال البناء والاختبار والتسليم لـ 489 فيلا وأعمال البنية التحتية المرافقة لمشروع ند الشبا في دبي.",
       icon: Home
     },
     {
       id: 3,
-      title: "Manufacturing Facility",
-      category: "Industrial",
-      image: "https://images.pexels.com/photos/1647962/pexels-photo-1647962.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
-      description: "Large-scale industrial facility with cutting-edge automation systems.",
+      title: "Al Samha West Villas",
+      category: "Residential",
+      image: "/images/TrojanProject.jpg",
+      description: "Construction work of 150 villas in 2020 in Al Samha West is completed. Villa Size: 500 sqm Total Site Area: 30.28 The Emirati-inspired villas are perfectly suited to large families looking to escape the busy streets of Abu Dhabi city, with each plot consisting of 5-bedrooms and spreading over two storeys. Main Contractor Torjan. Subcontractor: Khair Al Anaam Building Contracting LLC.",
       icon: Factory
     },
     {
       id: 4,
-      title: "Historic Renovation",
-      category: "Renovation",
-      image: "https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
-      description: "Careful restoration of a 100-year-old landmark building.",
+      title: "Al Samha West Villas",
+      category: "Residential",
+      image: "/images/TrojanProject2.jpg",
+      description: "Constrcutions work of Villas. Main Contractor Trojan Subcontractor Khair Al Annam Building Contracting.",
       icon: Hammer
     }
   ];
