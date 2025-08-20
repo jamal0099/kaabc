@@ -35,7 +35,52 @@ export default function Projects() {
       image: "/images/TrojanProject2.jpg",
       description: "Constrcutions work of Villas. Main Contractor Trojan Subcontractor Khair Al Annam Building Contracting.",
       icon: Hammer
-    }
+    },
+    
+    {
+      id: 5,
+      title: "Baniyas North",
+      category: "Residential",
+      image: "/images/baniyas.jpg",
+      description: "Constrcutions work of Villas. Main Contractor Trojan Subcontractor Khair Al Annam Building Contracting.",
+      icon: Hammer
+    },
+
+    {
+      id: 6,
+      title: "Fibrex Project",
+      category: "Residential",
+      image: "/images/fibrix.jpg",
+      description: "Constrcutions work of Villas. Main Contractor Trojan Subcontractor Khair Al Annam Building Contracting.",
+      icon: Hammer
+    },
+
+    {
+      id: 7,
+      title: "Villas Project",
+      category: "Residential",
+      image: "/images/800villa.png",
+      description: "Constrcutions work of Villas. Main Contractor Trojan Subcontractor Khair Al Annam Building Contracting.",
+      icon: Hammer
+    },
+
+    {
+      id: 8,
+      title: "Baniyas North Phase 2",
+      category: "Residential",
+      image: "/images/bnorth.png",
+      description: "Constrcutions work of Villas. Main Contractor Trojan Subcontractor Khair Al Annam Building Contracting.",
+      icon: Hammer
+    },
+
+    {
+      id: 9,
+      title: "Villas Project",
+      category: "Residential",
+      image: "/images/villas2.jpg",
+      description: "Constrcutions work of Villas. Main Contractor Trojan Subcontractor Khair Al Annam Building Contracting.",
+      icon: Hammer
+    },
   ];
 
   return (
